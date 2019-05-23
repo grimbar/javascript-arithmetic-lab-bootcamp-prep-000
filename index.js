@@ -22,6 +22,6 @@ function dec(n) {
   return n -= 1
 }
 
-makeInt(parseInt(´n´, 10)) {
+function makeInt(parseInt('n', 10) {
   return n
 }
